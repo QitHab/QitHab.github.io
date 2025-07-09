@@ -115,7 +115,7 @@ section .main-body{
     position: relative;
     height: auto; /* 设置高度为自动，以便根据内容自适应 */
     top: min(-65px, max(-100px, calc(-1*100vw/12)));
-    max-width: 80%; /* 将最大宽度设置为容器的 80%，可以根据需要调整 */
+    max-width: 50%; /* 将最大宽度设置为容器的 80%，可以根据需要调整 */
     width: 100%; /* 让元素的宽度适应其父容器 */
     margin: 0 auto; /* 使元素水平居中 */
     float: none; /* 移除浮动，确保可以使用 margin 来居中 */
