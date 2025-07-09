@@ -19,3 +19,4 @@ Worked on the development and optimization of large-scale recommendation systems
 - 研发并优化推荐算法，提高用户互动率和内容相关性。  
 - 设计并实现实时数据处理流程，提升模型推理的计算效率。  
 - 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+![alt text](0cd7bd7b72dffb0f7e39205b34e251bb.jpg)
