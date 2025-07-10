@@ -117,7 +117,7 @@ section .main-body{
     top:min(3px,max(5px,calc(-1*100vw/12)));
     max-width: 55em;
     margin: 0 1rem 0 0;
-    float: right;
+    float: left;
     z-index: 9000;
 }
 
