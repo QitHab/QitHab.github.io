@@ -114,7 +114,7 @@ section .main-body{
 #picture {
     position: relative;
     height: 0;
-    top:min(65px,max(100px,calc(-1*100vw/12)));
+    top:min(30px,max(50px,calc(-1*100vw/12)));
     max-width: 55em;
     margin: 0 1rem 0 0;
     float: right;
