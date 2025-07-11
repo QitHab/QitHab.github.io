@@ -1,23 +1,21 @@
 
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+武汉大学 世界经济 硕士研究生在读
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>qihao.shen@foxmail.com</code>  
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### 教育经历  
+**武汉大学**, 世界经济 硕士 (2023 – 2026)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
-#### Research Interests  
-XX, XX, XX, XX.
+**中南财经政法大学**, 经济学 学士 (2019 – 2023)<br>  
+• 以专业排名前10%保送至武汉大学经济与管理学院。  
+ 
+
+#### 研究方向  
+人工智能 全球价值链
 
 
 
