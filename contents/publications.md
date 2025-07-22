@@ -1,4 +1,4 @@
-### EI论文
+### 会议论文
 **Chinese Postgraduate Application: Two-sided Matching Research**<br>
 《Advances in Economics, Business and Management Research》，Volume 231
 - 主要内容：基于匹配博弈双边选择算法（Gale-Shapley算法），通过模型设定与流程模拟，分析研究生招录市场在策略稳健性和帕累托效率方面存在的问题。
